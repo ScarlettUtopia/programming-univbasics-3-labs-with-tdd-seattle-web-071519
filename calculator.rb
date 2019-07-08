@@ -3,4 +3,4 @@ second_number = 1
 sum = 8
 difference = 6
 product = 7
-quotient = 7l
+quotient = 7
